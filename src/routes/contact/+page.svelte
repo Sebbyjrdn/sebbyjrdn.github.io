@@ -10,7 +10,7 @@
   
   <ul class="flex justify-center space-x-4 mt-4">
     <li>
-      <a href="https://github.com/S3BBYBOY" class="text-blue-500 hover:underline">
+      <a href="https://github.com/Sebbyjrdn" class="text-blue-500 hover:underline">
         <img src="portfolio/github.png" alt="GitHub" class="w-10 h-10"> 
       </a>
     </li>
